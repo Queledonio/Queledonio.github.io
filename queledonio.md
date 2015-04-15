@@ -1,0 +1,17 @@
+---
+layout: page
+permalink: /hossain-mohd-faysal/index.html
+title: Carles Salas
+tags: 
+image:
+  feature: quelehuman.jpg
+---
+
+  <img src="{{ site.url }}/images/quelehuman2l.jpg" alt="Who the heck is this dude?">
+
+
+I am myself.
+
+I make games.
+
+Sometimes I write, too.
