@@ -7,7 +7,7 @@ image:
   feature: quelehuman.jpg
 ---
 
-  <img src="{{ site.url }}/images/quelehuman2.jpg" alt="Who the heck is this dude?">
+  <img src="/images/quelehuman2.jpg" alt="Who the heck is this dude?">
 
 
 I am myself.
