@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hossain-mohd-faysal/index.html
+permalink: /queledonio/index.html
 title: Carles Salas
 tags: 
 image:
