@@ -1,13 +1,14 @@
 ---
 layout: post
 published: true
-title: Announcing my new game: JOB HUNTER SIMULATOR
+title: Announcing my new game: JOB HUNTING SIMULATOR
 mathjax: false
 featured: true
 comments: true
-headline: What would you do to get a job? 
-  - Games
-tags: #JobHunterSimulator>
+headline: Hope is a mistake.
+categories: 
+  - games
+tags: JobHunterSimulator
 ---
 
 ![Photo by David Iliff](/Users/Carlos/GitHub/Queledonio.github.io/_posts/_img/JobHunting_promo_01.png "Title")
